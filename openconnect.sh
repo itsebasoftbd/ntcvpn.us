@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='64.20.54.246';
-db_user='ntcvpnus_ntcvpn';
-db_pass='ntcvpnus_ntcvpn';
-db_name='ntcvpnus_ntcvpn';
+db_host='80.240.20.126';
+db_user='ntcvpnus';
+db_pass='ntcvpnus';
+db_name='ntcvpnus';
 
 install_require()
 {
