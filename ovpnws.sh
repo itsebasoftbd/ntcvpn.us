@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='80.240.20.126';
-USER='ntcvpnus';
-PASS='ntcvpnus';
-DBNAME='ntcvpnus';
+HOST='64.20.54.246';
+USER='ntcvpnus_ntcvpn';
+PASS='ntcvpnus_ntcvpn';
+DBNAME='ntcvpnus_ntcvpn';
 
 install_require()
 {
